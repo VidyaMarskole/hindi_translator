@@ -1,0 +1,15 @@
+# PDF Processing
+pymupdf==1.24.1
+reportlab==4.1.0
+
+# OCR Engine (AI Model)
+easyocr==1.7.1
+
+# Translation
+deep-translator==1.11.4
+
+# Compatibility for Python 3.13+
+legacy-cgi==0.0.2
+
+# Image handling for OCR
+Pillow==10.2.0
